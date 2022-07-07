@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Experimenting with markdown
+**This is for the Advanced Python class by Dom**
+
+## Here is some code
+
+'''python
+i = 1
+range = range(1,10, 2)
+
+for r in range:
+    i = i + 1
+  
+i
+
+
+'''
