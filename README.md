@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ## Here is some code
 
-```
-python
+```python
 i = 1
 range = range(1,10, 2)
 
