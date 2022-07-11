@@ -14,18 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Experimenting with markdown
-**This is for the Advanced Python class by Dom**
 
-## Here is some code
+My name is Rebecca and I am a PhD student at the University of Zurich.
 
-```python
-i = 1
-range = range(1,10, 2)
+I am currently working on COSIMO, an online app to test social cognition using Django/Python. The final app will also be able to host other tests and surveys. While sorting out some details the repository is still private, but if you would like to know more, feel free to contact me! 
 
-for r in range:
-    i = i + 1
-  
-i
-
-```
+The project (beta version) is live at: https://cosimo-project.com
