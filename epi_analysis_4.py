@@ -6,10 +6,10 @@ import os
 # List of patients to be analysed and the information belonging to them
 patients = [
     {
-        'patient_code': 'beri',                     # Name code consisting of first two letters of first name and first two letters of last name
-        'last_name': 'Richter',                     # Last nime as written in file path
-        'first_name': 'Benedikt',                   # First name as written in file path
-        'date': '250324',                           # Date as written in file path
+        'patient_code': '',                     # Name code consisting of first two letters of first name and first two letters of last name
+        'last_name': '',                     # Last nime as written in file path
+        'first_name': '',                   # First name as written in file path
+        'date': '',                           # Date as written in file path
         'paradigms': ['AMY_short', 'WFA'],         # List of paradigms that the patient has completed
         }, 
             ]
